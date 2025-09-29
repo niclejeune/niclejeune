@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nicolas-readme-banner.svg" alt="Nicolas Lejeune — Data Science @ ITU Copenhagen · Co-Founder/COO @ Cheap.Voyage · Co-Founder @ Pango Coach" />
+  <img src="assets/nicolas-readme-bannerv2.svg" alt="Nicolas Lejeune — Data Science @ ITU Copenhagen · Co-Founder/COO @ Cheap.Voyage · Co-Founder @ Pango Coach" />
 </p>
 
 <h1 align="center">Hi, I'm Nicolas Lejeune 👋</h1>
