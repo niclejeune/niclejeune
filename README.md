@@ -51,41 +51,25 @@ Modern, responsive site (pure HTML/CSS/JS), with typing animation, project secti
 **Repo:** <https://github.com/niclejeune/nicolas-lejeune-site>
 
 ---
+<!-- Skills (text + logos via shields.io) -->
+<p align="center">
 
-<!-- Skills (icon grid) -->
-<div align="center">
+  <!-- Core -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
 
-  <!-- Programming & Data -->
-  <h4>Programming & Data</h4>
-  <img title="Python" alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img title="SQL (PostgreSQL)" alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img title="R" alt="R" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img title="Web Scraping (Scrapy)" alt="Scrapy" height="36" src="https://cdn.simpleicons.org/scrapy/2C3E50" />
-  <img title="API Integration (Postman)" alt="Postman" height="36" src="https://cdn.simpleicons.org/postman" />
-  <img title="LaTeX" alt="LaTeX" height="36" src="https://cdn.simpleicons.org/latex/008080" />
+  <br/>
 
-  <br /><br />
+  <!-- Data / ML stack -->
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
 
-  <!-- Machine Learning & AI -->
-  <h4>Machine Learning & AI</h4>
-  <img title="OpenAI (LLM Engineering)" alt="OpenAI" height="36" src="https://cdn.simpleicons.org/openai" />
-  <img title="PyTorch (Deep Learning)" alt="PyTorch" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img title="TensorFlow (Deep Learning)" alt="TensorFlow" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img title="scikit-learn" alt="scikit-learn" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-  <img title="Hugging Face (NLP)" alt="Hugging Face" height="36" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
-  <img title="OpenRouter (LLM Gateway)" alt="OpenRouter" height="36" src="https://cdn.simpleicons.org/router/64748B" />
-
-  <br /><br />
-
-  <!-- Data Engineering -->
-  <h4>Data Engineering</h4>
-  <img title="Apache Airflow (ETL)" alt="Airflow" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
-  <img title="pandas (Data Analysis)" alt="pandas" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img title="NumPy" alt="NumPy" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img title="Ray (Pipelines / Parallel)" alt="Ray" height="36" src="https://cdn.simpleicons.org/ray/0288D1" />
-  <img title="Grafana (KPI Tracking)" alt="Grafana" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-
-  <br /><br />
+</p>
 
   <!-- Leadership & Operations (emoji for soft skills) -->
   <h4>Leadership & Operations</h4>
