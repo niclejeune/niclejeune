@@ -70,18 +70,6 @@ Modern, responsive site (pure HTML/CSS/JS), with typing animation, project secti
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
 
 </p>
-
-  <!-- Leadership & Operations (emoji for soft skills) -->
-  <h4>Leadership & Operations</h4>
-  <span title="Team Leadership" style="font-size:28px">👥</span>
-  <span title="Strategic Planning" style="font-size:28px">🧭</span>
-  <span title="Partnership Development" style="font-size:28px">🤝</span>
-  <span title="Operations Management" style="font-size:28px">🛠️</span>
-  <span title="KPI Development" style="font-size:28px">📊</span>
-  <span title="Startup Scaling" style="font-size:28px">🚀</span>
-
-</div>
-
 ---
 
 ## Experience
