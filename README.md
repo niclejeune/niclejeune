@@ -52,19 +52,51 @@ Modern, responsive site (pure HTML/CSS/JS), with typing animation, project secti
 
 ---
 
-## Skills & Technologies
+<!-- Skills (icon grid) -->
+<div align="center">
 
-### Programming & Data
-Python · SQL · R · Web Scraping · API Integration · LaTeX
+  <!-- Programming & Data -->
+  <h4>Programming & Data</h4>
+  <img title="Python" alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img title="SQL (PostgreSQL)" alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img title="R" alt="R" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img title="Web Scraping (Scrapy)" alt="Scrapy" height="36" src="https://cdn.simpleicons.org/scrapy/2C3E50" />
+  <img title="API Integration (Postman)" alt="Postman" height="36" src="https://cdn.simpleicons.org/postman" />
+  <img title="LaTeX" alt="LaTeX" height="36" src="https://cdn.simpleicons.org/latex/008080" />
 
-### Machine Learning & AI
-LLM Engineering · Deep Learning · NLP · scikit-learn · OpenRouter
+  <br /><br />
 
-### Data Engineering
-ETL Workflows · Data Analysis · Multi-threaded Pipelines · KPI Tracking
+  <!-- Machine Learning & AI -->
+  <h4>Machine Learning & AI</h4>
+  <img title="OpenAI (LLM Engineering)" alt="OpenAI" height="36" src="https://cdn.simpleicons.org/openai" />
+  <img title="PyTorch (Deep Learning)" alt="PyTorch" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img title="TensorFlow (Deep Learning)" alt="TensorFlow" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img title="scikit-learn" alt="scikit-learn" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img title="Hugging Face (NLP)" alt="Hugging Face" height="36" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+  <img title="OpenRouter (LLM Gateway)" alt="OpenRouter" height="36" src="https://cdn.simpleicons.org/router/64748B" />
 
-### Leadership & Operations
-Team Leadership · Strategic Planning · Partnership Development · Operations Management · KPI Development · Startup Scaling
+  <br /><br />
+
+  <!-- Data Engineering -->
+  <h4>Data Engineering</h4>
+  <img title="Apache Airflow (ETL)" alt="Airflow" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
+  <img title="pandas (Data Analysis)" alt="pandas" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img title="NumPy" alt="NumPy" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img title="Ray (Pipelines / Parallel)" alt="Ray" height="36" src="https://cdn.simpleicons.org/ray/0288D1" />
+  <img title="Grafana (KPI Tracking)" alt="Grafana" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+
+  <br /><br />
+
+  <!-- Leadership & Operations (emoji for soft skills) -->
+  <h4>Leadership & Operations</h4>
+  <span title="Team Leadership" style="font-size:28px">👥</span>
+  <span title="Strategic Planning" style="font-size:28px">🧭</span>
+  <span title="Partnership Development" style="font-size:28px">🤝</span>
+  <span title="Operations Management" style="font-size:28px">🛠️</span>
+  <span title="KPI Development" style="font-size:28px">📊</span>
+  <span title="Startup Scaling" style="font-size:28px">🚀</span>
+
+</div>
 
 ---
 
