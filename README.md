@@ -70,7 +70,6 @@ Modern, responsive site (pure HTML/CSS/JS), with typing animation, project secti
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
 
 </p>
----
 
 ## Experience
 
