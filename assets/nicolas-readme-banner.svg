@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Nicolas Lejeune — Data Science @ ITU Copenhagen; Co-Founder/COO @ Cheap.Voyage; Co-Founder @ Pango Coach">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Nicolas Lejeune — Data Science @ ITU Copenhagen · Co-Founder/COO @ Cheap.Voyage · Co-Founder @ Pango Coach">
   <defs>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#60a5fa"></stop>
@@ -7,22 +7,30 @@
     </linearGradient>
     <filter id="blur"><feGaussianBlur stdDeviation="60"></feGaussianBlur></filter>
   </defs>
+
+  <!-- background -->
   <rect width="1600" height="420" fill="#0b0f1a"></rect>
+
+  <!-- soft gradient blobs -->
   <g opacity="0.18" filter="url(#blur)">
     <circle cx="1400" cy="60" r="220" fill="url(#glow)"></circle>
     <circle cx="1180" cy="340" r="160" fill="#60a5fa"></circle>
     <circle cx="1480" cy="300" r="120" fill="#22c55e"></circle>
   </g>
+
+  <!-- headline -->
   <g transform="translate(80,120)">
     <rect x="-6" y="-18" width="12" height="120" rx="6" fill="url(#glow)"></rect>
     <text x="24" y="16" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-weight="700" font-size="56" fill="#e5e7eb">Nicolas Lejeune</text>
-    <text x="24" y="64" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-weight="500" font-size="22" fill="#94a3b8">Data Science @ ITU Copenhagen · Co-Founder/COO @ Cheap.Voyage · Co-Founder @ Pango Coach</text>
-    <a href="https://nicolaslejeune.dev" target="_blank" rel="noreferrer">
-      <rect x="24" y="86" width="360" height="44" rx="10" fill="none" stroke="#1f2937"></rect>
-      <text x="40" y="115" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="18" fill="#e5e7eb">nicolaslejeune.dev →</text>
-    </a>
+    <text x="24" y="64" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-weight="500" font-size="22" fill="#94a3b8">
+      Data Science @ ITU Copenhagen · Co-Founder/COO @ Cheap.Voyage · Co-Founder @ Pango Coach
+    </text>
   </g>
+
+  <!-- tagline -->
   <g transform="translate(80,246)">
-    <text x="0" y="0" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="18" fill="#94a3b8">Building data-driven products for travel &amp; esports. Python • ML • NLP • APIs • Multi-threaded pipelines.</text>
+    <text x="0" y="0" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="18" fill="#94a3b8">
+      Building data-driven products for travel &amp; esports. Python • ML • NLP • APIs • Multi-threaded pipelines.
+    </text>
   </g>
 </svg>
